@@ -13,3 +13,11 @@ no-osc
 no-window-dragging
 native-touch=yes
 ```
+# Gestures
+- Tap left - prev page
+- Tap right - next page
+- Swipe up - first page (of file)
+- Swipe down - last page (of file)
+- Two finger swipe up - increase black level
+- Two finger swipe down - decrease black level
+- 2x Two finger swipe down (rapid) - exit mpv
